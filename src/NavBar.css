@@ -1,0 +1,10 @@
+.NavBar {
+	background-color: darkslategrey;
+	padding: 1rem;
+}
+
+.NavBar a {
+	padding: 1rem;
+	width: 10em;
+	color: floralwhite;
+}
